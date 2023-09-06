@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Hussa\OneDrive\Desktop\Custom_monopoly\Custom_monopoly\Source.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hussa\OneDrive\Desktop\Custom_monopoly\Custom_monopoly\Source.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hussa\OneDrive\Desktop\Custom_monopoly\Custom_monopoly\Source.cpp(70,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hussa\OneDrive\Desktop\Custom_monopoly\Custom_monopoly\Source.cpp(81,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hussa\OneDrive\Desktop\Custom_monopoly\Custom_monopoly\Source.cpp(158,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hussa\OneDrive\Desktop\Custom_monopoly\Custom_monopoly\Source.cpp(172,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hussa\OneDrive\Desktop\Custom_monopoly\Custom_monopoly\Source.cpp(482,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hussa\OneDrive\Desktop\Custom_monopoly\Custom_monopoly\Source.cpp(777,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Hussa\OneDrive\Desktop\Custom_monopoly\Custom_monopoly\Source.cpp(1116,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Hussa\OneDrive\Desktop\Custom_monopoly\Custom_monopoly\Source.cpp(1122,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Hussa\OneDrive\Desktop\Custom_monopoly\Custom_monopoly\Source.cpp(1155,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hussa\OneDrive\Desktop\Custom_monopoly\Custom_monopoly\Source.cpp(1238,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Custom_monopoly.vcxproj -> C:\Users\Hussa\OneDrive\Desktop\Custom_monopoly\Debug\Custom_monopoly.exe
